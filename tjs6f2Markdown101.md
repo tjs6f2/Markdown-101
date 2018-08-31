@@ -3,6 +3,8 @@
 
 [This is a link to reddit](https://old.reddit.com/)
 
+[Link to the readme](https://github.com/tjs6f2/Markdown-101/blob/master/README.md)
+
 ![local repo pic](https://github.com/tjs6f2/Markdown-101/blob/master/IMAG0554.jpg)
 
 ![mizzou](http://thefederalist.com/wp-content/uploads/2015/11/Mizzou-Discovery-998x499.jpg)
